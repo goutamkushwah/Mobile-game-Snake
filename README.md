@@ -1,1 +1,2 @@
-# Mobile-game-Snake
+# Snakegame
+This is snake game 
