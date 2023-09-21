@@ -105,14 +105,14 @@ button {
         padding:0;
     }
   .keyboard{
-          margin-top: 130%;
+          margin-top: 115%;
     margin-right: -40%;
       
     }
     #board{
        width: 250px;
           height: 290px;
-         margin-top:30px;
+         margin-top:-54px;
     }
     button {
     width: 80px;
