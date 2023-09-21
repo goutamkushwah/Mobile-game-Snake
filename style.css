@@ -110,8 +110,8 @@ button {
       
     }
     #board{
-       width: 200px;
-          height: 200px;
+       width: 250px;
+          height: 250px;
     }
     button {
     width: 80px;
@@ -127,7 +127,7 @@ button {
 }
     #hiscoreBox{
     position: absolute;
-  top: 51px;
+  top: 61px;
     right: 227px;
     font-size: 27px;
     font-weight: bold;
