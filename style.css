@@ -119,9 +119,17 @@ button {
     }
     #scoreBox{
     position: absolute;
-    top: 9px;
-    right: 200px;
-    font-size: 39px;
+    top: 41px;
+    right: 227px;
+    font-size: 27px;
+    font-weight: bold;
+    font-family: 'New Tegomin', serif;
+}
+    #hiscoreBox{
+    position: absolute;
+  top: 41px;
+    right: 227px;
+    font-size: 27px;
     font-weight: bold;
     font-family: 'New Tegomin', serif;
 }
